@@ -1,199 +1,98 @@
 {
-	"PlayerData": [
-		{
-			"ID": 1,
-			"Forename": "Ammar",
-			"Surname": "Nazhan",
-			"ImageURL": "<insert imageurl>"
-		},
-		{
-			"ID": 2,
-			"Forename": "Player Forename",
-			"Surname": "Player Surname",
-			"ImageURL": "<insert imageurl>"
-		}
-	],
-	"ClubData": [
-		{
-			"ID": 1,
-			"Name": "Club Name",
-			"ShortName": "MCN",
-			"ImageURL": "<insert imageurl>"
-		}
-		{
-	"PlayerData": [
-		{
-			"ID": 1,
-			"Forename": "Arif",
-			"Surname": "Aiman",
-			"ImageURL": ""
-		},
-		{
-			"ID": 2,
-			"Forename": "Safawi",
-			"Surname": "Rasul",
-			"ImageURL": ""
-		},
-		{
-			"ID": 3,
-			"Forename": "Akhyar",
-			"Surname": "Rashid",
-			"ImageURL": ""
-		},
-		{
-			"ID": 4,
-			"Forename": "Luqman",
-			"Surname": "Hakim",
-			"ImageURL": ""
-		},
-		{
-			"ID": 5,
-			"Forename": "Saddil",
-			"Surname": "Ramdhan",
-			"ImageURL": ""
-		},
-		{
-			"ID": 6,
-			"Forename": "Dion",
-			"Surname": "Cools",
-			"ImageURL": ""
-		},
-		{
-			"ID": 7,
-			"Forename": "Matthew",
-			"Surname": "Davies",
-			"ImageURL": ""
-		},
-		{
-			"ID": 8,
-			"Forename": "Syamer",
-			"Surname": "Kutty Abba",
-			"ImageURL": ""
-		},
-		{
-			"ID": 9,
-			"Forename": "Corbin",
-			"Surname": "Ong",
-			"ImageURL": ""
-		},
-		{
-			"ID": 10,
-			"Forename": "Darren",
-			"Surname": "Lok",
-			"ImageURL": ""
-		},
-		{
-			"ID": 11,
-			"Forename": "Syahmi",
-			"Surname": "Safari",
-			"ImageURL": ""
-		},
-		{
-			"ID": 12,
-			"Forename": "Shahrul",
-			"Surname": "Saad",
-			"ImageURL": ""
-		},
-		{
-			"ID": 13,
-			"Forename": "Faisal",
-			"Surname": "Halim",
-			"ImageURL": ""
-		},
-		{
-			"ID": 14,
-			"Forename": "Mukhairi",
-			"Surname": "Ajmal",
-			"ImageURL": ""
-		},
-		{
-			"ID": 15,
-			"Forename": "Azam",
-			"Surname": "Azmi",
-			"ImageURL": ""
-		},
-		{
-			"ID": 16,
-			"Forename": "Khuzaimi",
-			"Surname": "Piee",
-			"ImageURL": ""
-		},
-		{
-			"ID": 17,
-			"Forename": "Syihan",
-			"Surname": "Hazmi",
-			"ImageURL": ""
-		},
-		{
-			"ID": 18,
-			"Forename": "Dominic",
-			"Surname": "Tan",
-			"ImageURL": ""
-		},
-		{
-			"ID": 19,
-			"Forename": "Nazmi",
-			"Surname": "Faiz",
-			"ImageURL": ""
-		},
-		{
-			"ID": 20,
-			"Forename": "Hadi",
-			"Surname": "Fayyadh",
-			"ImageURL": ""
-		},
-		{
-			"ID": 21,
-			"Forename": "Rahadiazli",
-			"Surname": "Rahalim",
-			"ImageURL": ""
-		},
-		{
-			"ID": 22,
-			"Forename": "Azri",
-			"Surname": "Ghani",
-			"ImageURL": ""
-		},
-		{
-			"ID": 23,
-			"Forename": "V.",
-			"Surname": "Ruventhiran",
-			"ImageURL": ""
-		},
-		{
-			"ID": 24,
-			"Forename": "Aliff",
-			"Surname": "Haiqal",
-			"ImageURL": ""
-		},
-		{
-			"ID": 25,
-			"Forename": "Daryl",
-			"Surname": "Sham",
-			"ImageURL": ""
-		}
-	]
-		}
-		
-	],
-	"LeagueData": [
-		{
-			"ID": 28,
-			"Name": "League Name",
-			"ImageURL": "<insert imageurl>"
-		}
-	],
-	"CupData": [
-		{
-			"ID": 2,
-			"Name": "Cup Name",
-			"ImageURL": "<insert imageurl>"
-		}
-	],
-	"StadiumData": [
-		{
-			"ID": 1,
-			"Name": "Stadium Name"
-		}
-	]
+  "PlayerData": [
+    {
+      "ID": 1,
+      "Forename": "Arif",
+      "Surname": "Aiman",
+      "ImageURL": ""
+    },
+    {
+      "ID": 2,
+      "Forename": "Safawi",
+      "Surname": "Rasid",
+      "ImageURL": ""
+    },
+    {
+      "ID": 3,
+      "Forename": "Akhyar",
+      "Surname": "Rashid",
+      "ImageURL": ""
+    },
+    {
+      "ID": 4,
+      "Forename": "Luqman",
+      "Surname": "Hakim",
+      "ImageURL": ""
+    },
+    {
+      "ID": 5,
+      "Forename": "Saddil",
+      "Surname": "Ramdani",
+      "ImageURL": ""
+    },
+    {
+      "ID": 6,
+      "Forename": "Dion",
+      "Surname": "Cools",
+      "ImageURL": ""
+    },
+    {
+      "ID": 7,
+      "Forename": "Matthew",
+      "Surname": "Davies",
+      "ImageURL": ""
+    },
+    {
+      "ID": 8,
+      "Forename": "Syamer",
+      "Surname": "Kutty Abba",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9,
+      "Forename": "Corbin",
+      "Surname": "Ong",
+      "ImageURL": ""
+    },
+    {
+      "ID": 10,
+      "Forename": "Faisal",
+      "Surname": "Halim",
+      "ImageURL": ""
+    }
+  ],
+  "ClubData": [
+    {
+      "ID": 1,
+      "Name": "Johor Darul Ta'zim",
+      "ShortName": "JDT",
+      "ImageURL": ""
+    },
+    {
+      "ID": 2,
+      "Name": "Selangor FC",
+      "ShortName": "SEL",
+      "ImageURL": ""
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": 1,
+      "Name": "Liga Super Malaysia",
+      "ImageURL": ""
+    }
+  ],
+  "CupData": [
+    {
+      "ID": 1,
+      "Name": "Piala Malaysia",
+      "ImageURL": ""
+    }
+  ],
+  "StadiumData": [
+    {
+      "ID": 1,
+      "Name": "Stadium Sultan Ibrahim"
+    }
+  ]
 }
